@@ -1,0 +1,10 @@
+bin/
+obj/
+
+Properties/
+launchSettings.json
+
+appsettings.json
+appsettings.*.json
+!appsettings.Example.json
+service_api.csproj.user
